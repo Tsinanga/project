@@ -15,7 +15,8 @@ export default function landing() {
 
       <h1 className="text-4xl md:text-5xl font-bold text-red-600 mb-4">
 
-        Welcome to the MediApp 
+        Welcome to  MediApp 
+        The Best App
         
       </h1>
       <br/><br/><br/>
