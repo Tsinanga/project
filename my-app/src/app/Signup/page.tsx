@@ -29,7 +29,7 @@ export default function Signup() {
     <div>
        <br/><br/>
        <br/><br/>
-         <h1>Patient Signup:</h1>
+         <h1>Patient have to Signup:</h1>
          <form onSubmit={handleSubmit}>
              <textarea
           name="name"
