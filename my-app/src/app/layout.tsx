@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   
-  title: "MediApp",
+  title: "Babako",
   description: "Medi App is a secure platform for managing patient records, assigning doctors, tracking prescriptions with ease.",
 };
 <Head>

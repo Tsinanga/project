@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <nav className="bg-gray-800 text-white px-6 py-4">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
-        <div className="text-xl font-bold">MediApp </div>
+        <div className="text-xl font-bold">Plugged In </div>
 
        
 
