@@ -18,6 +18,7 @@ function Navbar() {
           <li><Link href="/feedback">Feedback</Link></li>
           <li><Link href="/faq">FAQ</Link></li>
           <li><Link href="/profile">User</Link></li>
+          <li><Link href="/logout">Logout</Link></li>
         </ul>
       </div>
 
