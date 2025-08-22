@@ -176,7 +176,7 @@ export default function FeedbackPage() {
         )}
       </form>
 
-    
+     
       <div className="mt-10 text-sm text-gray-500 dark:text-gray-400">
         <p>📧 We’ll never share your email with anyone else.</p>
         <p>© 2025 MediApp. All rights reserved.</p>
